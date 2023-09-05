@@ -12,11 +12,11 @@
 
 - 💬 Ask me about **C, C++, DSA, & Front-End Development.**
 
-- 📫 How to reach me **kanhagupta412@gmail.com**
+- 📫 How to reach me: **kanhagupta412@gmail.com**
 
 - ♟️ Love to play **Chess.**
 
-- ⚡ Fun fact: **I've a hidden talent that no one knows about.**
+- ⚡ Fun fact: **I have a hidden talent that no one knows about.**
 
 <br>
 <h3 align="left">Connect with me:</h3>
