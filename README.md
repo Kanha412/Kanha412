@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kanha Gupta</h1>
-<h3 align="center">Currently, I'm looking for a placement opportunity to expand my knowledge, skills, and experience in a reputable organization. I always aim to reach my creative goals one step at a time and believe in doing everything with a smile.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<p align="center">As a highly motivated B.Tech CSE student, I possess a strong foundation in computer science principles and a passion for problem-solving. With hands-on experience in various programming languages and tools, I am equipped to develop innovative solutions to complex challenges. My ability to adapt to new technologies and work collaboratively makes me a valuable asset to any organization. Seeking opportunities to apply my skills and knowledge in a dynamic environment.</p>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/Kanha412/Kanha412/assets/85762282/f5c801db-6ad9-4ec8-85fa-f93f41a526f0">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanha412&label=Profile%20views&color=ff4747&style=plastic" alt="kanha412" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kanhagupta412" target="blank"><img src="https://img.shields.io/twitter/follow/kanhagupta412?logo=twitter&style=for-the-badge" alt="kanhagupta412" /></a> </p>
 <!-- <p align="left"> <a href="https://chess.com/member/kanhagupta412" target="blank"><img src="https://img.shields.io/twitter/follow/kanhagupta412?logo=twitter&style=for-the-badge" alt="kanhagupta412" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available at [Kanha Gupta Portfolio](https://kanha412.github.io)
+- 👨‍💻 All my projects are available at [Kanha Gupta Portfolio](https://kanha412.github.io)
 
 - 💬 Ask me about **C, C++, DSA, & Front-End Development.**
 
@@ -29,4 +31,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://github.com/Kanha412/Kanha412/assets/85762282/81b86f30-8925-4987-b271-f23ce99c2ecf" alt="VScode" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://github.com/Kanha412/Kanha412/assets/85762282/f9f74bdd-bef7-495d-b545-bac55d1ab07a" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/></a>
+<a href="https://www.canva.com" target="_blank" rel="noreferrer"><img src="https://github.com/Kanha412/Kanha412/assets/85762282/df5ee74c-16f6-4432-bdc9-b6668d5ab2bb" alt="canva" width="40" height="40"/></a>
+<a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://github.com/Kanha412/Kanha412/assets/85762282/4451686a-6b04-49f0-9c83-2976566cf369" alt="figma" width="40" height="40"/></a>
+</p>
