@@ -40,6 +40,6 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://github.com/Kanha412/Kanha412/assets/85762282/f9f74bdd-bef7-495d-b545-bac55d1ab07a" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/></a>
-<a href="https://www.canva.com" target="_blank" rel="noreferrer"><img src="https://github.com/Kanha412/Kanha412/assets/85762282/df5ee74c-16f6-4432-bdc9-b6668d5ab2bb" alt="canva" width="40" height="40"/></a>
-<a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://github.com/Kanha412/Kanha412/assets/85762282/4451686a-6b04-49f0-9c83-2976566cf369" alt="figma" width="40" height="40"/></a>
+<a href="https://www.canva.com" target="_blank" rel="noreferrer"><img src="https://github.com/Kanha412/Kanha412/assets/85762282/a3f93053-703e-4008-990f-28a0763e3d3c" alt="canva" width="40" height="40"/></a>
+<a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://github.com/Kanha412/Kanha412/assets/85762282/e042edde-9ec2-429f-a5f9-0eef5ed85b73" alt="figma" width="40" height="40"/></a>
 </p>
