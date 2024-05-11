@@ -42,4 +42,5 @@
 <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/></a>
 <a href="https://www.canva.com" target="_blank" rel="noreferrer"><img src="https://github.com/Kanha412/Kanha412/assets/85762282/a3f93053-703e-4008-990f-28a0763e3d3c" alt="canva" width="40" height="40"/></a>
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://github.com/Kanha412/Kanha412/assets/85762282/e042edde-9ec2-429f-a5f9-0eef5ed85b73" alt="figma" width="40" height="40"/></a>
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Kanha412/Kanha412/assets/85762282/3452f0c8-5354-4576-a1bc-5d83c71af4bf" alt="figma" width="40" height="40"/></a>
 </p>
