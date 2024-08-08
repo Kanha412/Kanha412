@@ -11,7 +11,7 @@
 
 - 👨‍💻 All my projects are available at [Kanha Gupta Portfolio](https://kanha412.github.io)
 
-- 💬 Ask me about **C, C++, DSA, & Front-End Development.**
+- 💬 Ask me about **C, C++, Python, DSA, ML, React.js & Web Development.**
 
 - ♟️ Love to play **Chess.**
 
