@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanha Gupta</h1>
-<p align="center">As a highly motivated B.Tech CSE student, I possess a strong foundation in computer science principles and a passion for problem-solving. With hands-on experience in various programming languages and tools, I am equipped to develop innovative solutions to complex challenges. My ability to adapt to new technologies and work collaboratively makes me a valuable asset to any organization. Seeking opportunities to apply my skills and knowledge in a dynamic environment.</p>
+<p align="center">As a Software Engineer specializing in .NET Full Stack Development, I bring hands-on experience in building scalable real-time solutions using .NET Core, C#, Angular, and SQL Server. With a B.Tech in Computer Science and Engineering and strong skills in OOP, DSA, and modern web technologies, I excel at designing robust APIs and optimizing backend workflows. Recognized with a 5⭐ HackerRank C++ badge and 600+ GFG score, I thrive on solving complex challenges. I am eager to contribute my technical expertise and collaborative mindset to innovative, growth-driven teams.</p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Kanha412/Kanha412/assets/85762282/f5c801db-6ad9-4ec8-85fa-f93f41a526f0">
 
