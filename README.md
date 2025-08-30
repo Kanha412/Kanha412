@@ -9,11 +9,11 @@
 <p align="left"> <a href="https://twitter.com/kanhagupta412" target="blank"><img src="https://img.shields.io/twitter/follow/kanhagupta412?logo=twitter&style=for-the-badge" alt="kanhagupta412" /></a> </p>
 <!-- <p align="left"> <a href="https://chess.com/member/kanhagupta412" target="blank"><img src="https://img.shields.io/twitter/follow/kanhagupta412?logo=twitter&style=for-the-badge" alt="kanhagupta412" /></a> </p> -->
 
-- 💬 Ask me about **C, C++, Python, DSA, ML, React.js & Web Development.**
+- 💬 Skilled in **.NET Full Stack, C/C++, Python, DSA, ML, React.js & Web Development.**
 
-- ♟️ Love to play **Chess.**
+- ♟️ Passionate **chess player** with a strategic mindset.
 
-- ⚡ Fun fact: **I have a hidden talent that no one knows about.**
+- ⚡ Fun fact: **I often surprise people with my hidden creative side.**
 
 <br>
 <h3 align="left">Connect with me:</h3>
