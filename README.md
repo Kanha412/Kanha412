@@ -9,8 +9,6 @@
 <p align="left"> <a href="https://twitter.com/kanhagupta412" target="blank"><img src="https://img.shields.io/twitter/follow/kanhagupta412?logo=twitter&style=for-the-badge" alt="kanhagupta412" /></a> </p>
 <!-- <p align="left"> <a href="https://chess.com/member/kanhagupta412" target="blank"><img src="https://img.shields.io/twitter/follow/kanhagupta412?logo=twitter&style=for-the-badge" alt="kanhagupta412" /></a> </p> -->
 
-- 👨‍💻 All my projects are available at [Kanha Gupta Portfolio](https://kanha412.github.io)
-
 - 💬 Ask me about **C, C++, Python, DSA, ML, React.js & Web Development.**
 
 - ♟️ Love to play **Chess.**
